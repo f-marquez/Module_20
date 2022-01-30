@@ -49,3 +49,7 @@ bserved features are:
 
 ### Tableau Dashboard
 https://public.tableau.com/app/profile/francis.marquez1843/viz/Final_Project_Titanic_16433208106390/AgeHistogram
+
+### Google Slides Presentation
+https://docs.google.com/presentation/d/1IFVcrnvRRrImdb5s6TLPkYXL-65yKagD_-F9EQwRS48/edit#slide=id.g110d4ef2792_0_2465
+
