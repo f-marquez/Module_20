@@ -47,6 +47,9 @@ bserved features are:
   - We should consider that the passengers age is a predictor
   - Age is skewed and Fare is highly skewed
 
+### Main Project Repo (Group Repo)
+https://github.com/skaram16/finalproject
+
 ### Tableau Dashboard
 https://public.tableau.com/app/profile/francis.marquez1843/viz/Final_Project_Titanic_16433208106390/AgeHistogram
 
